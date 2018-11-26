@@ -12,10 +12,10 @@ using System.Threading.Tasks;
 
 namespace FunctionApp1
 {
-    public static class Function1
+    public static class HttpTrigger
     {
         private static readonly HttpClient httpclient;
-        static Function1 ()
+        static HttpTrigger ()
             {
             httpclient = new HttpClient ();
             }
