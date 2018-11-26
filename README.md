@@ -1,4 +1,4 @@
-# AzureFunction-2.0-Demo-
+# AzureFunction-2.0-Demo 
 Demo of Azure function 2.0 with different types of function and uses of jsonplaceholder side to post http request and send back response get from jsonplaceholder site 
 
 
